@@ -14,14 +14,6 @@ AllSiteX is an all-in-one file downloader and monitor tool that helps you downlo
 - ✅ User Download Activity Logging (for private auditing)
 - ✅ Secure Access Lock (Admin Only)
 
----
-
-## 🔐 Admin Panel Login
-
-- **Username**: `admin`  
-- **Password**: `1213`
-
-Only the admin can view download history logs and control settings.
 
 ---
 

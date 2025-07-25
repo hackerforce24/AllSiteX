@@ -20,7 +20,7 @@ AllSiteX is an all-in-one file downloader and monitor tool that helps you downlo
 ## ⚙️ Installation & Usage (Linux / Termux)
 
 ```bash
-git clone https://github.com/your-username/AllSiteX
+git clone https://github.com/hackerforce24/AllSiteX
 cd AllSiteX
 pip install -r requirements.txt
 python allsitex.py
